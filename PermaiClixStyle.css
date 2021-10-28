@@ -1,0 +1,23 @@
+.navbar {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+.button {
+  font-family: "Verdana, Geneva, Tahoma, sans-serif";
+}
+
+.judul {
+  padding-top: 2rem;
+  padding-left: 1rem;
+  font-family: "Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif";
+}
+
+.paragraf {
+  padding-left: 1rem;
+  padding-right: 50%;
+  font-family: "Times New Roman, Times, serif";
+}
+
+.carousel-item {
+  height: 250px;
+}
